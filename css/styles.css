@@ -1,4 +1,27 @@
 nav{
     background-color: brown;
-    height: 50px;
+    height: 30px;
 }
+.row{
+    display: inline-block;
+}
+.nav{
+    float: right;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 5px;
+}
+.logo{
+    font-size: 5px;
+    color: blanchedalmond;
+    margin-left: 5px;
+}
+header{
+    height: 100px;
+    background-color: antiquewhite;
+}
+
